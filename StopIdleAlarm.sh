@@ -31,5 +31,3 @@ do
 		--alarm-actions arn:aws:automate:$REGION:ec2:stop
 	fi
 done
-
-
